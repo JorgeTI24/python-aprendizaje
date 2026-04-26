@@ -1,0 +1,6 @@
+=== Clima en CDMX ===
+Fecha: 2026-04-25
+Temperatura promedio: 21C
+Máxima:27°C
+Mínima:13°C
+Indice UV: 15
